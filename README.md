@@ -1,9 +1,9 @@
 # IMC - Índice de Massa Corporal
 
-Calcula o IMC - ÍNDICE DE MASSA CORPORAL
+### Calcula o IMC
 
 
-IMC: você sabe calcular seu peso adequado?
+IMC: Você sabe calcular seu peso adequado?
 O Índice de Massa Corporal (IMC) é a principal maneira de
 descobrir se você está com peso ideal ou se apresenta magreza,
 sobrepeso ou obesidade.
